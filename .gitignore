@@ -1,0 +1,14 @@
+# Python & Automation artifacts
+*.py
+*.pyc
+__pycache__/
+*.log
+*.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Node/Dev artifacts (if any)
+node_modules/
+.env*
